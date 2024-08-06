@@ -1,6 +1,7 @@
 # Ethical Hacker Essentials Certification
 
 
+summarize the following script and dont miss any information, i need it to study for an exam:
 
 ## Getting started
 
