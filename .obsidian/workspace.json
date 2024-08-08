@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3077d779ea612037",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ce824f1e4089ca4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d0e162d94ceb6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M12 - Penetration Testing/Penetration Testing Methodologies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e7b584acf2c6a7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M12 - Penetration Testing/Guidelines for Penetration Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fce1cded890cd0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85747c74b306b4e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "553f5d957686a503",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adc39840a4f1f22e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a02020d3f354a9c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1045130171051fd5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b236a6ba611e31cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d90fa37ab7797a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f775c10e17fe10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c34405dd91a4e59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f1144191b24faa7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d40d5645abf694a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "adc39840a4f1f22e",
+  "lastOpenFiles": [
+    "README.md",
+    "hacking-tools.md",
+    "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
+    "M12 - Penetration Testing/Guidelines for Penetration Testing.md",
+    "M12 - Penetration Testing/Penetration Testing Methodologies.md",
+    "M12 - Penetration Testing/Types of Penetration Testing.md",
+    "M12 - Penetration Testing/Phases of Penetration Testing.md",
+    "M12 - Penetration Testing/Penetration Testing and its Benefits.md",
+    "htb.md",
+    "M9 - Mobile Attacks/Anatomy of a Mobile Attack.md",
+    "M10 - IoT Security/IoT Concepts.md",
+    "M10 - IoT Security/IoT attacks and Tools.md",
+    "M10 - IoT Security/IoT Attack Countermeasures and Security Tools.md",
+    "M10 - IoT Security/OT Concepts.md",
+    "M10 - IoT Security/OT Attacks and Tools.md",
+    "M10 - IoT Security/OT Attack Countermeasures and Security Tools.md",
+    "M11 - Cloud Security/Container Technology.md",
+    "M11 - Cloud Security/Cloud Computing Threats.md",
+    "M11 - Cloud Security/Cloud Attacks and Tools.md",
+    "M11 - Cloud Security/Cloud Attack Countermeasures.md",
+    "M11 - Cloud Security/Cloud Computing Security Tools.md",
+    "M12 - Penetration Testing",
+    "M11 - Cloud Security/Cloud Computing Concepts.md",
+    "M11 - Cloud Security",
+    "M10 - IoT Security",
+    "M9 - Mobile Attacks/Mobile Device Management.md",
+    "M9 - Mobile Attacks/Mobile Platform Vulnerabilities.md",
+    "M9 - Mobile Attacks/Mobile Security Guidelines and Security Tools.md",
+    "M9 - Mobile Attacks/Mobile Platform Attack Vectors.md",
+    "M9 - Mobile Attacks",
+    "M8 - Wireless Security",
+    "M7 - Server, Application, SQL Injection",
+    "M6 - Session Hijacking",
+    "M5 - Social Engineering",
+    "M4 - Password Security"
+  ]
+}
