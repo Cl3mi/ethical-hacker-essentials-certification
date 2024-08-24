@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "4ce824f1e4089ca4",
+        "id": "c4816865e3bcc680",
         "type": "tabs",
         "children": [
           {
-            "id": "34d0e162d94ceb6e",
+            "id": "4497e6eae0e5c329",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M12 - Penetration Testing/Penetration Testing Methodologies.md",
+                "file": "network-defense-essentials/M12 - Network Traffic Monitoring/Attack Signature Analysis Techniques.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9e7b584acf2c6a7b",
+            "id": "9d9165dd7755ef58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M12 - Penetration Testing/Guidelines for Penetration Testing.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0fce1cded890cd0d",
+            "id": "19dca2f333ce9958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
+                "file": "Monitoring Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M12 - Penetration Testing/Risks Associated with Penetration Testing.md"
+                "file": "s.md"
               }
             }
           }
@@ -173,40 +171,41 @@
   },
   "active": "adc39840a4f1f22e",
   "lastOpenFiles": [
+    "Monitoring Tools.md",
+    "s.md",
     "README.md",
-    "hacking-tools.md",
-    "M12 - Penetration Testing/Risks Associated with Penetration Testing.md",
-    "M12 - Penetration Testing/Guidelines for Penetration Testing.md",
-    "M12 - Penetration Testing/Penetration Testing Methodologies.md",
-    "M12 - Penetration Testing/Types of Penetration Testing.md",
-    "M12 - Penetration Testing/Phases of Penetration Testing.md",
-    "M12 - Penetration Testing/Penetration Testing and its Benefits.md",
-    "htb.md",
-    "M9 - Mobile Attacks/Anatomy of a Mobile Attack.md",
-    "M10 - IoT Security/IoT Concepts.md",
-    "M10 - IoT Security/IoT attacks and Tools.md",
-    "M10 - IoT Security/IoT Attack Countermeasures and Security Tools.md",
-    "M10 - IoT Security/OT Concepts.md",
-    "M10 - IoT Security/OT Attacks and Tools.md",
-    "M10 - IoT Security/OT Attack Countermeasures and Security Tools.md",
-    "M11 - Cloud Security/Container Technology.md",
-    "M11 - Cloud Security/Cloud Computing Threats.md",
-    "M11 - Cloud Security/Cloud Attacks and Tools.md",
-    "M11 - Cloud Security/Cloud Attack Countermeasures.md",
-    "M11 - Cloud Security/Cloud Computing Security Tools.md",
-    "M12 - Penetration Testing",
-    "M11 - Cloud Security/Cloud Computing Concepts.md",
-    "M11 - Cloud Security",
-    "M10 - IoT Security",
-    "M9 - Mobile Attacks/Mobile Device Management.md",
-    "M9 - Mobile Attacks/Mobile Platform Vulnerabilities.md",
-    "M9 - Mobile Attacks/Mobile Security Guidelines and Security Tools.md",
-    "M9 - Mobile Attacks/Mobile Platform Attack Vectors.md",
-    "M9 - Mobile Attacks",
-    "M8 - Wireless Security",
-    "M7 - Server, Application, SQL Injection",
-    "M6 - Session Hijacking",
-    "M5 - Social Engineering",
-    "M4 - Password Security"
+    "network-defense-essentials/M12 - Network Traffic Monitoring/Network Monitoring for Suspicious Traffic.md",
+    "network-defense-essentials/M12 - Network Traffic Monitoring/Attack Signature Analysis Techniques.md",
+    "network-defense-essentials/M12 - Network Traffic Monitoring/Categories of Suspicious Traffic Signatures.md",
+    "network-defense-essentials/M12 - Network Traffic Monitoring/Network Traffic Baseline and Signatures.md",
+    "network-defense-essentials/M12 - Network Traffic Monitoring/Network Traffic Monitoring.md",
+    "network-defense-essentials/M11 - Data Security/Data Security Technologies.md",
+    "network-defense-essentials/M11 - Data Security/Security Controls for Data Encryption.md",
+    "network-defense-essentials/M11 - Data Security/Encryption Tools.md",
+    "network-defense-essentials/M11 - Data Security/Tools for Data Backup and Retention.md",
+    "network-defense-essentials/M11 - Data Security/Data Loss Prevention (DLP) and Solutions.md",
+    "network-defense-essentials/M12 - Network Traffic Monitoring",
+    "network-defense-essentials/M11 - Data Security/Data Security and its Importance.md",
+    "network-defense-essentials/M11 - Data Security",
+    "network-defense-essentials/M10 - Cryptography and PKI/Cryptography Tools and Hash Calculators.md",
+    "network-defense-essentials/M10 - Cryptography and PKI/Public Key Infrastructure (PKI), Digital Signatures and Digital Certificates.md",
+    "network-defense-essentials/M10 - Cryptography and PKI/Different Hashing Algorithms.md",
+    "network-defense-essentials/M10 - Cryptography and PKI/Different Encryption Algorithms.md",
+    "network-defense-essentials/M9 -  IoT Device Security/IoT Application Areas and IoT Devices.md",
+    "network-defense-essentials/M9 -  IoT Device Security/Security Considerations of the IoT Framework.md",
+    "network-defense-essentials/M9 -  IoT Device Security/Best Practices and Tools for IoT Security.md",
+    "network-defense-essentials/M10 - Cryptography and PKI/Cryptographic Techniques.md",
+    "network-defense-essentials/M10 - Cryptography and PKI",
+    "network-defense-essentials/M9 -  IoT Device Security/IoT Architecture and IoT Communication Models.md",
+    "network-defense-essentials/M9 -  IoT Device Security/Security in IoT-Enabled Environments.md",
+    "network-defense-essentials/M9 -  IoT Device Security/Why Organizations Opt for IoT-enabled Environments.md",
+    "network-defense-essentials/M8 -  Mobile Device Security./Security Guidelines and Best Practices for Mobile Platforms.md",
+    "network-defense-essentials/M9 -  IoT Device Security",
+    "network-defense-essentials/M8 -  Mobile Device Security.",
+    "network-defense-essentials/M7 - Wireless Network Security",
+    "network-defense-essentials/M6 - Virutalization and Cloud Computing",
+    "network-defense-essentials/M5 - Network Security Controls",
+    "network-defense-essentials/M4 - Physical Security",
+    "network-defense-essentials/M3 - Administrative Controls"
   ]
 }

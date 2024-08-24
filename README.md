@@ -3,6 +3,10 @@
 
 summarize the following script and dont miss any information, i need it to study for an exam:
 
+Please summarize the following script in detail. Provide the summary in bullet points to ensure clarity and ease of understanding. Make sure to include all key information and main points from the script. This summary is intended for studying, so accuracy and comprehensiveness are crucial:
+
+Please summarize the following script in detail and provide the summary in Markdown format. The summary should include all key information and main points from the script. Use headings, bullet points, and sub-bullets to ensure clarity and ease of understanding. This summary is intended for studying, so accuracy and comprehensiveness are crucial:
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
